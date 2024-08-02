@@ -4,9 +4,9 @@ Use this Readme file as a template or starter document for any React application
 
 ---
 
-# \[MyBlog\]
+# \[MyGram\]
 
-Front End application oriented to ...
+A fullstack application developed for educational purposes
 
 ## Technologies used
 
