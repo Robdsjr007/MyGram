@@ -1,0 +1,15 @@
+.faceText {
+    display: flex;
+    align-items: center;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.faceText p {
+    margin-left: 5px;
+    margin-block: 0;
+}
+
+.blue {
+    color: #234182;
+}

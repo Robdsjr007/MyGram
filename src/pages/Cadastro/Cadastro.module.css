@@ -1,0 +1,27 @@
+.cadastrarFace {
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    margin-top: 0;
+    max-width: 268px;
+    font-size: 12px;
+    text-align: center;
+}
+
+.mediumText {
+    color: #737373;
+    font-weight: bolder;
+    line-height: 20px;
+}
+
+.smallText {
+    color: #737373;
+    line-height: 16px;
+}
+
+span {
+    color: #00376B;
+    cursor: pointer;
+}

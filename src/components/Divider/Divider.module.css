@@ -1,0 +1,19 @@
+.dividerContainer {
+    display: flex;
+    align-items: center;
+    width: 268px;
+    margin: 20px 0;
+  }
+  
+  .line {
+    flex-grow: 1;
+    height: 1px;
+    background-color: #ccc;
+  }
+  
+  .text {
+    margin: 0 10px 0;
+    color: #888;
+    font-size: 10px;
+  }
+  

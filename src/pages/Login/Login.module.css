@@ -1,0 +1,23 @@
+/* .imageCell2 {
+    width: 180px;
+    height: 292px;
+} */
+
+footer {
+    margin-top: 10px;
+    max-width: 350px;
+}
+
+footer p {
+    min-width: 310px;
+    padding: 20px;
+    border: 0.5px solid rgb(219,219,219);
+    border-radius: 1px;
+}
+
+footer .linkRegister {
+    color: rgb(6, 117, 190);
+}
+
+  
+  
