@@ -12,7 +12,9 @@ A fullstack application developed for educational purposes
 
 - [React](https://reactjs.org/) single page application
 - Routing done using [React Router](https://reacttraining.com/react-router/web/guides/philosophy)
-- Using DataBase with [Firebase](https://firebase.google.com/)
+- Backend developed in Nodejs [Node](https://nodejs.org/)
+- Using DataBase with [MongoDB](https://www.mongodb.com/)
+
 
 ### Architecture diagrams
 
